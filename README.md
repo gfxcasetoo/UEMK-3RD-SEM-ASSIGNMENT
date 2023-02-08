@@ -1,16 +1,10 @@
-# UEM 3rd Sem
-
-[Go To DSA 👩🏻‍💻](#dsa-lab-technologist) <br>
-[Go To IT ☕](#it-workshop-coffee) <br>
-[Go to DE ⚡](#digital-electronics-zap) <br>
-[Previous Sem Questions 📑](#question-papers-spiral_notepad) <br>
-[Go to Notes 📚](#notes-moyai)
+# UEMK 3RD SEM ASSIGNMENT
 
 **_All the 3rd Sem Lab assignments, Questions, Notes are uploaded in this repo. So make sure to star(⭐) this repo 😄✌🏻_**
 
 ---
 
-## DSA Lab :technologist:
+## DSA LAB
 
 | Topics               | Assignments                              |
 | -------------------- | ---------------------------------------- |
@@ -27,7 +21,7 @@
 
 ---
 
-## IT Workshop :coffee:
+## IT WORKSHOP
 
 💠[Question](https://drive.google.com/file/d/1ZjDGDwiDeSj4t-XkfCieJIc38ZIjBKDH/view?usp=share_link)
 
@@ -45,7 +39,7 @@
 
 ---
 
-## Digital Electronics :zap:
+## DIGITAL ELECTRONICS LAB
 
 | Experiments                                                        | Assignments                                                                                    |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -60,7 +54,7 @@
 
 ---
 
-## Question Papers :spiral_notepad:
+## QUESTION PAPERS
 
 💠 [Syllabus](https://drive.google.com/file/d/1ZjV3HsiDDPe5FXP1-iuigmSw7qBDvATS/view?usp=share_link)
 <br>
@@ -144,7 +138,7 @@
 
 ---
 
-## Notes :moyai:
+## NOTES
 
 - [JAVA](https://drive.google.com/drive/folders/1S2PXl8vWiOQwIsTZIQ0rssCLlvt80Kbu?usp=share_link)
 - [DSA](https://drive.google.com/drive/folders/1S4n4FHhMbeWzRc-i4KWodloGl_iwh0UK?usp=share_link)
@@ -155,13 +149,3 @@
 - [LaTex](https://drive.google.com/drive/folders/11Ba0JoXr1ZiadL_QAQ8rnPuiSH1qbjHI?usp=share_link)
 
 ---
-
-```c
-while(noSuccess){
-    tryAgain();
-    if(dead){
-        break;
-    }
-}
-```
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
